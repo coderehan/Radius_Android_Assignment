@@ -19,7 +19,7 @@ Type : GET
 
 <b>About App:</b>
 
-This app is built in <b>Kotlin</b> with <b>MVVM</b> architecture design pattern along with Coroutines, Dependency Injection.
+This app is built in <b>Kotlin</b> with <b>MVVM</b> architecture design pattern along with Coroutines & Dependency Injection.
 
 <b>Libraries used:</b>
 1. ViewModel
