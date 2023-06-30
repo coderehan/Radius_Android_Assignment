@@ -12,10 +12,8 @@ from the exclusions combinations.
 For example, users can’t select these options together.
 Ex. 1 : Property Type : Land, Number of Rooms: 1 to 3 rooms.
 Ex. 2 : Property Type : Boat House, Other Facilities : Garage
-
-c) Use Core Data to Persist the data, so every time you load data from the DB, and refresh
-your DB from API once a day.
 API Url : https://my-json-server.typicode.com/iranjith4/ad-assignment/db
+
 Type : GET
 
 <b>About App:</b>
